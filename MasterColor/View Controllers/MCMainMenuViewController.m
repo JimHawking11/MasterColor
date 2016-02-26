@@ -1,27 +1,24 @@
 //
-//  ViewController.m
+//  MainMenuViewController.m
 //  MasterColor
 //
-//  Created by Michael Salkin on 2/21/16.
+//  Created by Michael Salkin on 2/24/16.
 //  Copyright © 2016 MAS. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "MCMainMenuViewController.h"
 
-@interface ViewController ()
-
-@end
-
-@implementation ViewController
+@implementation MCMainMenuViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    // Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
 
 @end
